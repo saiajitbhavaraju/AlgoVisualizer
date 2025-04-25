@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .array-container {
+  @apply ;
+} */
+
+/* .array-bar {
+  @apply bg-cyan-400 mx-0.5;
+  min-width: 2px;
+} */
